@@ -63,7 +63,7 @@ const Footer = () => {
           <small className='text-[14p] text-white'>
             kingnanmuafale@gmail.com
           </small>
-
+    
           <div className="icons flex gap-4 py-[1rem]">
             <AiOutlineInstagram className='bg-white p-[18px] rounded-full icon text-blueColor'/>
             <BiLogoFacebook className='bg-white p-[18px] rounded-full icon text-blueColor'/>

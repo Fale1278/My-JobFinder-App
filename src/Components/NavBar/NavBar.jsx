@@ -8,7 +8,7 @@ const NavBar = () => {
       </div>
 
       <div className="menu flex gap-8">
-        <li className="menuList text-[#6f6f6f] hover:text-blueColor">Jobs</li>
+        <li className="menuList text-[#4f4e4e] hover:text-blueColor">Jobs</li>
         <li className="menuList text-[#6f6f6f] hover:text-blueColor">Companies</li>
         <li className="menuList text-[#6f6f6f] hover:text-blueColor">About</li>
         <li className="menuList text-[#6f6f6f] hover:text-blueColor">Constant</li>
